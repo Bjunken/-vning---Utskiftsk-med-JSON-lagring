@@ -1,0 +1,16 @@
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\bin\Debug\net10.0\övningar - Utskriftskö med JSON.exe
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\bin\Debug\net10.0\övningar - Utskriftskö med JSON.deps.json
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\bin\Debug\net10.0\övningar - Utskriftskö med JSON.runtimeconfig.json
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\bin\Debug\net10.0\övningar - Utskriftskö med JSON.dll
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\bin\Debug\net10.0\övningar - Utskriftskö med JSON.pdb
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\obj\Debug\net10.0\övningar - Utskriftskö med JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\obj\Debug\net10.0\övningar - Utskriftskö med JSON.AssemblyInfoInputs.cache
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\obj\Debug\net10.0\övningar - Utskriftskö med JSON.AssemblyInfo.cs
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\obj\Debug\net10.0\övningar - Utskriftskö med JSON.csproj.CoreCompileInputs.cache
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\obj\Debug\net10.0\övningar - Utskriftskö med JSON.sourcelink.json
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\obj\Debug\net10.0\övningar - Utskriftskö med JSON.dll
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\obj\Debug\net10.0\refint\övningar - Utskriftskö med JSON.dll
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\obj\Debug\net10.0\övningar - Utskriftskö med JSON.pdb
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\obj\Debug\net10.0\övningar - Utskriftskö med JSON.genruntimeconfig.cache
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\obj\Debug\net10.0\ref\övningar - Utskriftskö med JSON.dll
+C:\Users\linus\Desktop\Övning - Utskiftskö med JSON-lagring\övningar - Utskriftskö med JSON\övningar - Utskriftskö med JSON\obj\Debug\net10.0\_vningar.C2DFCF1E.Up2Date
